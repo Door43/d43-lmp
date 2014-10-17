@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lmp:home|Door43 (lmp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lmp|d43-lmp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lmp/archive/master.zip|d43-lmp.zip]]
+
+**Recent Changes**
+{{changes>ns = lmp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lmp|Ethnologue data]]
+
